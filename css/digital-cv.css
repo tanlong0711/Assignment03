@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+  line-height: 1.5;
+  font-family: "Open Sans", sans-serif;
+}
+
+.title {
+  border-bottom: 1px solid rgb(176, 172, 172);
+}
+/* project charter */
+.navv::before {
+  display: block;
+  content: "";
+  height: 80px;
+}
+/*  chiều cao của các cột  */
+.lorem {
+  min-height: 515px;
+}
+.lorem1 {
+  min-height: 370px;
+}
+.lorem2 {
+  min-height: 909.375px;
+}
+.number {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #9775fa; /* màu xanh */
+  color: #fff;
+
+  font-size: 30px;
+  border: 1px solid #495057;
+}
+
+.number2 {
+  border-bottom: 1px dashed #228be6;
+}

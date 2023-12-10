@@ -1,0 +1,87 @@
+@media screen and (max-width: 992px) {
+  /* Nav-Bar*/
+  #nav-bar .avatar {
+    display: none;
+  }
+  #nav-bar a:link,
+  a:visited {
+    padding: 10px;
+  }
+  /*Profile */
+
+  #about #target {
+    padding-left: 20px;
+  }
+  #about #personal-info {
+    padding-left: 20px;
+  }
+
+  /* JOB */
+
+  #job-info .job-icon {
+    font-size: 25px;
+  }
+  #job-info h1 {
+    font-size: 25px;
+  }
+  #job-info h1 {
+    font-size: 20px;
+  }
+  #job-info h3 {
+    font-size: 15px;
+  }
+  #job-info p {
+    font-size: 12px;
+  }
+  .lvl1 {
+    width: 40px;
+    height: 7px;
+  }
+  .lvl2 {
+    width: 40px;
+    height: 7px;
+  }
+
+  /* CERTIFICATATE */
+
+  #certificate img {
+    height: 130px;
+    width: 100%;
+  }
+  .certificate-content p,
+  h4 {
+    font-size: 10px;
+  }
+  .certificate-content {
+    padding-top: 15px;
+  }
+  /* PROJECT */
+
+  .project-img {
+    width: 100%;
+    height: 150px;
+  }
+  .project-title {
+    border: 1px solid #bdc3c7;
+    font-size: 6px;
+    padding: 10px;
+  }
+  #project .project-content {
+    font-size: 12px;
+  }
+  #project .project-icon {
+    font-size: 6px;
+  }
+  #project .now {
+    padding: 2px 4px;
+    border-radius: 12px;
+    font-size: 6px;
+  }
+  #interest .job-content-icon p {
+    width: 70%;
+    height: 70%;
+    font-size: 70%;
+  }
+
+  /* FOOTER */
+}
